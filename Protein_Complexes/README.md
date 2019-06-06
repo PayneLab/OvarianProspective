@@ -1,5 +1,5 @@
 <h1>Analysis of Protein Complexes and Ovarian Cancer</h1>
-This directory includes code and files for the analysis of how disruptions in protein complexes affect ovarian cancer cells.
+This directory includes code and files for the analysis of the role of disrupted protein complexes in ovarian cancer.
 
 <h2>Jupyter Notebooks</h2>
 
@@ -16,7 +16,7 @@ including references to publications, plots, and summaries of what our analyses 
 <h3>Clean_Dataset.ipynb</h3> The code used to clean up the original dataset to prepare it for analysis, including selecting
 the correct rows/columns, splitting up combined rows, and querying Uniprot to map Uniprot IDs to gene names.
 
-<h2>Data files</h2>
+<h2>Data Files</h2>
 
 <h3>proteinGroups_cleaned.txt</h3> Output of Clean_Dataset.ipynb. This is the file we used in our analyses, and contains
 proteomics data for both tumor and normal samples, some of which are matched.
